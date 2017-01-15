@@ -26,4 +26,4 @@
 2. 
 3. 
 
-**Revision**: Current server version
+**Revision**: Current server version (you can see current server revision by typing ".server info" command in the game chat)
